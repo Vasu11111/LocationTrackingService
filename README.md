@@ -9,11 +9,4 @@ This project demonstrates how to implement a **foreground location service** in 
 ✅ Uses **FusedLocationProviderClient** for accurate location tracking  
 ✅ Shows a **Settings Dialog** if the user denies permissions  
 
----
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/your-repo/location-tracking.git
-cd location-tracking
